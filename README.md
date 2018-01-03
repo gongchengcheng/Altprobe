@@ -18,7 +18,7 @@ Altprobe was tested under Ubuntu version 14.04.
 At the moment, Altprobe can recognize JSON events from Wazuh HIDS (OSSEC fork) version 2.1 and Suricata NIDS version 4.0
 
 ## Documentation
-<http://alertflex.org/doc/>
+<http://alertflex.org/doc/index.html>
 
 ## Project Site
 <http://alertflex.org/>
